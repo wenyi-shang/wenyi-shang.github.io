@@ -16,7 +16,7 @@ Methodologically, I have employed network analysis to investigate social structu
 I occasionally post non-academic writings (in Chinese) at my personal WeChat Official Account "翡翠岛燕谈" (Leisurely Discourse on the Emerald Isle)<br>
 ![翡翠岛燕谈](/images/Emerald-Isle.png)
 
-You can view my CV here: [Wenyi Shang's Curriculum Vitae](../files/CV.pdf)
+You can view my CV here: [Wenyi Shang's Curriculum Vitae](../files/CV.pdf).
 
 A data-driven personal website
 ======
