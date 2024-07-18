@@ -13,7 +13,7 @@ My research uses computational methods to study the development of human society
 
 Methodologically, I have employed network analysis to investigate social structures and transformations in political culture in premodern Chinese societies. I have also used text mining to uncover new insights into literary history, revealing the valuable perspectives that literary texts offer concerning cultural changes in human society. Both methods often intersect with predictive machine learning models. Additionally, my work involves exploring bibliographic metadata to examine the opportunities and challenges it presents. My articles on these subjects have been featured in peer-reviewed journals such as [Digital Humanities Quarterly](https://www.digitalhumanities.org/dhq/vol/16/2/000613/000613.html), [Digital Scholarship in the Humanities](https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqae008/7615080), [Sociological Science](https://sociologicalscience.com/articles-v9-8-184), [Cataloging & Classification Quarterly](https://www.tandfonline.com/doi/full/10.1080/01639374.2022.2148800), and [Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr/article/view/126).
 
-WeChat Official Account "翡翠岛燕谈"
+WeChat Official Account "翡翠岛燕谈"<br>
 ![翡翠岛燕谈](/images/Emerald-Isle.png)
 
 
