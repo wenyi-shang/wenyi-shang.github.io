@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome! I am an assistant professor at the [School of Information Science & Learning Technologies](https://cehd.missouri.edu/information-science-learning-technologies) at the University of Missouri. I earned my Ph.D. at the [School of Information Sciences](https://ischool.illinois.edu) from the University of Illinois Urbana-Champaign, where I was advised by Professor [Ted Underwood](https://ischool.illinois.edu/people/ted-underwood). Prior to joining the University of Illinois, I earned a bachelor’s degree in information management at [Peking University](https://english.pku.edu.cn/about.html), China.
+
+My research uses computational methods to study the development of human society, including its social, cultural, and political dimensions. I have made contributions to digital humanities and computational social science, using the perspective of information science to inform and guide methodological reflection in both fields.
+
+Methodologically, I have employed network analysis to investigate social structures and transformations in political culture in premodern Chinese societies. I have also used text mining to uncover new insights into literary history, revealing the valuable perspectives that literary texts offer concerning cultural changes in human society. Both methods often intersect with predictive machine learning models. Additionally, my work involves exploring bibliographic metadata to examine the opportunities and challenges it presents. My articles on these subjects have been featured in peer-reviewed journals such as [Digital Humanities Quarterly](https://www.digitalhumanities.org/dhq/vol/16/2/000613/000613.html), [Digital Scholarship in the Humanities](https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqae008/7615080), [Sociological Science](https://sociologicalscience.com/articles-v9-8-184), [Cataloging & Classification Quarterly](https://www.tandfonline.com/doi/full/10.1080/01639374.2022.2148800), and [Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr/article/view/126).
+
+WeChat Official Account "翡翠岛燕谈"
+![翡翠岛燕谈](/images/Emerald-Isle.png)
+
 
 A data-driven personal website
 ======
