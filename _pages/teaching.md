@@ -35,7 +35,7 @@ author_profile: true
 ## Teaching Experience as a Teaching Assistant
 
 <table>
-  <tr style="background-color: #f2f2f2; font-size: 18px;">
+  <tr style="background-color: #f2f2f2; font-size: 18px; margin-bottom: 15px;">
     <td>Course</td>
     <td>Database Design and Prototyping</td>
   </tr>
@@ -53,7 +53,7 @@ author_profile: true
   </tr>
 </table>
 <table>
-  <tr style="background-color: #f2f2f2; font-size: 18px; margin-bottom: 5px;">
+  <tr style="background-color: #f2f2f2; font-size: 18px; margin-bottom: 10px;">
     <td>Course</td>
     <td>Computing in the Humanities</td>
   </tr>
