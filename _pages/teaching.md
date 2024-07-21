@@ -52,7 +52,7 @@ author_profile: true
     <td>Grading assignments, recording class participation, and answering questions in a graduate-level course</td>
   </tr>
 </table>
-
+<p style="margin-bottom: 10px;"></p> 
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px">
     <td>Course</td>
