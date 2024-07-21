@@ -51,9 +51,9 @@ author_profile: true
     <td>Contributions</td>
     <td>Grading assignments, recording class participation, and answering questions in a graduate-level course</td>
   </tr>
-</table><br>
+</table>
 <table>
-  <tr style="background-color: #f2f2f2; font-size: 18px;">
+  <tr style="background-color: #f2f2f2; font-size: 18px; margin-bottom: 5px;">
     <td>Course</td>
     <td>Computing in the Humanities</td>
   </tr>
@@ -71,7 +71,7 @@ author_profile: true
   </tr>
 </table><br>
 <table>
-  <tr style="background-color: #f2f2f2; font-size: 18px;">
+  <tr style="background-color: #f2f2f2; font-size: 18px; margin-bottom: 5px;">
     <td>Course</td>
     <td>Information Organization</td>
   </tr>
@@ -89,7 +89,7 @@ author_profile: true
   </tr>
 </table><br>
 <table>
-  <tr style="background-color: #f2f2f2; font-size: 18px;">
+  <tr style="background-color: #f2f2f2; font-size: 18px; margin-bottom: 5px;">
     <td>Course</td>
     <td>Information Storage and Retrieval</td>
   </tr>
@@ -107,7 +107,7 @@ author_profile: true
   </tr>
 </table><br>
 <table>
-  <tr style="background-color: #f2f2f2; font-size: 18px;">
+  <tr style="background-color: #f2f2f2; font-size: 18px; margin-bottom: 5px;">
     <td>Course</td>
     <td>History of Chinese Books</td>
   </tr>
