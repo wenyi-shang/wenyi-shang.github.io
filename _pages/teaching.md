@@ -52,11 +52,7 @@ author_profile: true
     <td>Grading assignments, recording class participation, and answering questions in a graduate-level course</td>
   </tr>
 </table>
-<style>
-  .small-gap {
-    margin-bottom: 15px;
-  }
-</style>
+
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px">
     <td>Course</td>
@@ -75,11 +71,7 @@ author_profile: true
     <td>Leading discussions and giving guest lectures in class, holding office hours for 2 hours every week, and grading assignments</td>
   </tr>
 </table>
-<style>
-  .small-gap {
-    margin-bottom: 10px;
-  }
-</style>
+
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px">
     <td>Course</td>
@@ -98,11 +90,7 @@ author_profile: true
     <td>Facilitating a symposium of a group of 12 students every other week, and grading assignments</td>
   </tr>
 </table>
-<style>
-  .small-gap {
-    margin-bottom: 5px;
-  }
-</style>
+
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px">
     <td>Course</td>
@@ -121,11 +109,7 @@ author_profile: true
     <td>Delivering a guest lecture on the practice of information retrieval, and grading assignments</td>
   </tr>
 </table>
-<style>
-  .small-gap {
-    margin-bottom: 5px;
-  }
-</style>
+
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px">
     <td>Course</td>
