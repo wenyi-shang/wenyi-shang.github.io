@@ -148,8 +148,4 @@ author_profile: true
     <td>Time</td>
     <td>July 2021</td>
   </tr>
-  <tr style="background-color: #f2f2f2; font-size: 18px;">
-    <td>Workshop Recording</td>
-    <td><a href="https://www.youtube.com/watch?v=LMs9hWcEra8">HNRCS: Wenyi Shang – Workshop (intermediate level): ERGM and Network Simulation</a></td>
-  </tr>
 </table>
