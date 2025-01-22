@@ -207,6 +207,8 @@ author_profile: true
 
 ## Guest Lectures Delivered
 
+<p style="margin-top: 10px;"></p>
+
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px;">
     <td>Lecture</td>
