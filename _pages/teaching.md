@@ -36,7 +36,7 @@ author_profile: true
   </tr>
   <tr style="background-color: #ffffff; font-size: 18px;">
     <td>Course Syllabus</td>
-    <td><a href="../files/Syllabus-Digital%Humanities%and%Information.pdf">Syllabus: Digital Humanities and Information.pdf</a></td>
+    <td><a href="../files/Syllabus-Digital%20Humanities%20and%20Information.pdf">Syllabus: Digital Humanities and Information.pdf</a></td>
   </tr>
 </table>
 
