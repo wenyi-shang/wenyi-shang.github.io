@@ -250,19 +250,19 @@ author_profile: true
 </table>
 
 <table>
-  <tr font-size: 18px;">
+  <tr>
     <th>Lecture</th>
     <th>Course</th>
     <th>Institution</th>
     <th>Time</th>
   </tr>
-  <tr font-size: 18px;">
+  <tr>
     <td>Experience Sharing for First-Year Information Management Students</td>
     <td>Introduction to Information Management</td>
     <td>Peking University</td>
     <td>December 2024</td>
   </tr>
-  <tr font-size: 18px;">
+  <tr>
     <td>Career Planning for Library and Information Science Professionals</td>
     <td>Seminar on Publishing Trends and Library Trends</td>
     <td>Peking University</td>
