@@ -7,7 +7,37 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching Experience as an Instructor
+<p style="margin-top: -20px;"></p>
+
+## Courses Taught as Instructor
+<table>
+  <tr style="background-color: #f2f2f2; font-size: 18px;">
+    <td>Course</td>
+    <td>Digital Humanities and Information</td>
+  </tr>
+  <tr style="background-color: #ffffff; font-size: 18px;">
+    <td>Institution</td>
+    <td>University of Missouri</td>
+  </tr>
+  <tr style="background-color: #f2f2f2; font-size: 18px;">
+    <td>Time</td>
+    <td>August 2024–December 2024</td>
+  </tr>
+  <tr style="background-color: #ffffff; font-size: 18px;">
+    <td>Course Description</td>
+    <td>This graduate course introduces the emerging field of digital humanities, with a particular focus on its relationship to information. The course is organized around weekly topics that explore the use and application of emerging technologies and methods in humanities scholarship. Topics include methods such as data visualization, spatial analysis, text encoding, network analysis, and machine learning, among others, as well as conceptual themes like debates and critiques within digital humanities, recent developments in AI, and the contributions of digital humanities to various fields. These fields include established humanities disciplines like literature and history, adjacent disciplines in the social sciences, and libraries.<br>The course adopts a comprehensive approach, combining synchronous and asynchronous sessions. Through engaging readings, discussions, lab assignments, and a semester project, students will gain a broad understanding of the field of digital humanities. They will also acquire hands-on experience with basic digital technologies and computational methods for data analysis, and develop skills in critically analyzing and reviewing research projects or in proposing and conducting their own. This course aims to prepare students to navigate the opportunities and challenges they will encounter in future roles in librarianship and other information professions, particularly in areas that engage or support activities related to digital humanities.
+  </tr>
+  <tr style="background-color: #f2f2f2; font-size: 18px;">
+    <td>Average Course Evaluation Score/td>
+    <td>4.61/5.00</td>
+  </tr>
+  <tr style="background-color: #ffffff; font-size: 18px;">
+    <td>Course Syllabus</td>
+    <td><a href="../files/Syllabus-Digital%Humanities%and%Information.pdf>Syllabus: Digital Humanities and Information.pdf</a></td>
+  </tr>
+</table>
+
+<p style="margin-bottom: 40px;"></p> 
 
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px;">
@@ -24,15 +54,21 @@ author_profile: true
   </tr>
   <tr style="background-color: #ffffff; font-size: 18px;">
     <td>Course Description</td>
-    <td>This advanced undergraduate course explores the use and application of emerging technology and methods in scholarly activity in the humanities. Using the Python programming language, the main part of the course is organized around method-driven weekly topics, including data collection, data visualization, spatial analysis, text encoding, network analysis, machine learning, and text analysis, among others. Additionally, the course covers conceptual themes such as debates and critiques surrounding digital humanities and examines how computational methods contribute to established humanities disciplines such as literature and history, as well as adjacent disciplines in the social sciences.<br> The course adopts a comprehensive approach, blending lectures, seminars, and labs. Through engaging readings, dynamic class discussions, programming assignments, and a semester project, students gain a comprehensive overview of the research field of computing in the humanities. They also acquire hands-on experience in utilizing Python for data analysis, especially in the context of humanities topics. Moreover, students are exposed to the entire lifecycle of conducting research on a self-defined topic in computing in the humanities.</td>
+    <td>This advanced undergraduate course explores the use and application of emerging technology and methods in scholarly activities in the humanities. Using the Python programming language, the main part of the course is organized around method-driven weekly topics, including data collection, data visualization, spatial analysis, text encoding, network analysis, machine learning, and text analysis, among others. Additionally, the course covers conceptual themes such as debates and critiques surrounding digital humanities and examines how computational methods contribute to established humanities disciplines such as literature and history, as well as adjacent disciplines in the social sciences.<br>The course adopts a comprehensive approach, blending lectures, seminars, and labs. Through engaging readings, dynamic class discussions, programming assignments, and a semester project, students gain a comprehensive overview of the research field of computing in the humanities. They also acquire hands-on experience in utilizing Python for data analysis, especially in the context of humanities topics. Moreover, students are exposed to the entire lifecycle of conducting research on a self-defined topic in computing in the humanities.
   </tr>
-    <tr style="background-color: #f2f2f2; font-size: 18px;">
+  <tr style="background-color: #f2f2f2; font-size: 18px;">
+    <td>Average Course Evaluation Score/td>
+    <td>4.62/5.00</td>
+  </tr>
+  <tr style="background-color: #ffffff; font-size: 18px;">
     <td>Course Syllabus</td>
     <td><a href="../files/Syllabus-Computings%20in%20the%20Humanities.pdf">Syllabus: Computing in the Humanities</a></td>
   </tr>
 </table>
 
-## Teaching Experience as a Teaching Assistant
+<p style="margin-top: -20px;"></p>
+
+## Courses Taught as Teaching Assistant
 
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px">
@@ -68,7 +104,7 @@ author_profile: true
   </tr>
   <tr style="background-color: #ffffff; font-size: 18px;">
     <td>Contributions</td>
-    <td>Leading discussions and giving guest lectures in class, holding office hours for 2 hours every week, and grading assignments</td>
+    <td>Leading discussions and delivering guest lectures in class, holding office hours for 2 hours every week, and grading assignments</td>
   </tr>
 </table>
 <p style="margin-bottom: 40px;"></p> 
@@ -129,7 +165,9 @@ author_profile: true
   </tr>
 </table>
 
-## Teaching Experience as a Workshop Instructor
+<p style="margin-top: -20px;"></p>
+
+## Workshops Taught as Instructor
 
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px;">
@@ -138,7 +176,7 @@ author_profile: true
   </tr>
   <tr style="background-color: #ffffff; font-size: 18px;">
     <td>Event</td>
-    <td><a href="https://fccsdigitalchina.github.io/hnrcs2021">Historical Network Research in Chinese Studies</a></td>
+    <td><a href="https://fccsdigitalchina.github.io/hnrcs2021">Historical Network Research in Chinese Studies Conference</a></td>
   </tr>
   <tr style="background-color: #f2f2f2; font-size: 18px;">
     <td>Host</td>
@@ -147,5 +185,47 @@ author_profile: true
   <tr style="background-color: #ffffff; font-size: 18px;">
     <td>Time</td>
     <td>July 2021</td>
+  </tr>
+</table>
+
+<p style="margin-top: -20px;"></p>
+
+## Guest Lectures Delivered
+
+<table>
+  <tr style="background-color: #f2f2f2; font-size: 18px;">
+    <td>Lecture</td>
+    <td>Experience Sharing for First-Year Information Management Students</td>
+  </tr>
+  <tr style="background-color: #ffffff; font-size: 18px;">
+    <td>Course</td>
+    <td>Introduction to Information Management</td>
+  </tr>
+  <tr style="background-color: #f2f2f2; font-size: 18px;">
+    <td>Institution</td>
+    <td>Peking University</td>
+  </tr>
+  <tr style="background-color: #ffffff; font-size: 18px;">
+    <td>Time</td>
+    <td>December 2024</td>
+  </tr>
+</table>
+
+<table>
+  <tr style="background-color: #f2f2f2; font-size: 18px;">
+    <td>Lecture</td>
+    <td>Career Planning for Library and Information Science Professionals</td>
+  </tr>
+  <tr style="background-color: #ffffff; font-size: 18px;">
+    <td>Course</td>
+    <td>Seminar on Publishing Trends and Library Trends</td>
+  </tr>
+  <tr style="background-color: #f2f2f2; font-size: 18px;">
+    <td>Institution</td>
+    <td>Peking University</td>
+  </tr>
+  <tr style="background-color: #ffffff; font-size: 18px;">
+    <td>Time</td>
+    <td>December 2024</td>
   </tr>
 </table>
