@@ -248,24 +248,3 @@ author_profile: true
     <td>December 2024</td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <th>Lecture</th>
-    <th>Course</th>
-    <th>Institution</th>
-    <th>Time</th>
-  </tr>
-  <tr>
-    <td>Experience Sharing for First-Year Information Management Students</td>
-    <td>Introduction to Information Management</td>
-    <td>Peking University</td>
-    <td>December 2024</td>
-  </tr>
-  <tr>
-    <td>Career Planning for Library and Information Science Professionals</td>
-    <td>Seminar on Publishing Trends and Library Trends</td>
-    <td>Peking University</td>
-    <td>December 2024</td>
-  </tr>
-</table>
