@@ -157,7 +157,7 @@ author_profile: true
   </tr>
 </table>
 
-<p style="margin-bottom: 20px;"></p> 
+<p style="margin-bottom: 30px;"></p> 
 
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px">
