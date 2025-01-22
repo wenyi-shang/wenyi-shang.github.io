@@ -10,6 +10,9 @@ author_profile: true
 <p style="margin-top: -20px;"></p>
 
 ## Courses Taught as Instructor
+
+<p style="margin-top: 10px;"></p>
+
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px;">
     <td>Course</td>
@@ -69,6 +72,8 @@ author_profile: true
 <p style="margin-top: -20px;"></p>
 
 ## Courses Taught as Teaching Assistant
+
+<p style="margin-top: 10px;"></p>
 
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px">
@@ -176,6 +181,8 @@ author_profile: true
 <p style="margin-top: -20px;"></p>
 
 ## Workshops Taught as Instructor
+
+<p style="margin-top: 10px;"></p>
 
 <table>
   <tr style="background-color: #f2f2f2; font-size: 18px;">
