@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+<p style="margin-top: -20px;"></p>
+
 ## Peer-Reviewed Journal Articles
 1. **Shang, W.** & Underwood, T. (2025). [Disentangling Semantic and Prosodic Features of English Poetry](https://doi.org/10.1093/llc/fqae008). *Digital Scholarship in the Humanities*, *40*(Supplement_1), i87–i99.
 2. **Shang, W.**, Jett, J., Underwood, T., & Downie, J. S. (2023). [Descriptive Cataloging Issues for Non-Western Corpora: A Case Study of Late Imperial Chinese Books](https://doi.org/10.1080/01639374.2022.2148800). *Cataloging & Classification Quarterly*, *61*(1), 1–19.
@@ -22,6 +24,8 @@ Chinese translation: **Shang, W.** 尚闻一 & Sang, Z. 桑梓洲 (2022). [Tuanl
 10. **Shang, W.** & Huang, W. (2018). [Investigating the Relationships between Scholars and Politicians in Ancient China: Taking the Yuanyou Era as an Example](https://doi.org/10.17928/jjadh.3.1_33). *Journal of the Japanese Association for Digital Humanities*, *3*(1), 33–48.
 11. Xu, H. 许欢 & **Shang, W.** 尚闻一. (2017). [Meiguo, Ouzhou, Riben, Zhongguo shuzi suyang peiyang moshi fazhan shuping 美国、欧洲、日本、中国数字素养培养模式发展述评 [A Commentary on the Development of Digital Literacy Cultivation Models in the USA, Europe, Japan and China]](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=TSQB201716022&uniplatform=OVERSEA&v=rkAWFJ1ikDzqhzHN4j236kcq-vPXiWKfHwyIVJZAJBL65dgdSJkstfx__Wjpr_dY). *Tushu qingbao gongzuo* 图书情报工作 [Library and Information Service], *61*(16), 98–106.
 12. **Shang, W.** 尚闻一 & Yang, Z. 杨子傲. (2017). Jiyu zhishi shequn shijiao de wangluo baikequanshu citiao zhiliang yanjiu—Yi Wikipedia he Baidu Baike lishi lei citiao wei li (shang) 基于知识社群视角的网络百科全书词条质量研究——以 Wikipedia 和百度百科历史类词条为例（上） [Research on the Entries Quality of Online Encyclopedia Based on Knowledge Community Perspective: A Case Study on Historical Entries of Wikipedia and Baidu Baike (Part I)]. *Xinxi yu guanli yanjiu* 信息与管理研究 [Journal of Information and Management], *1*(2), 28–42.
+
+<p style="margin-top: -20px;"></p>
 
 ## Peer-Reviewed Conference Proceedings
 1. **Shang, W.**, Chen, Y., Dubnicek, R., Cordell, R., & Downie, J. S. (2024). [Interplays Between Materiality and Content in Book History: Evidence from 16th–19th Century Chinese and English Books](https://doi.org/10.5281/zenodo.13834936). In *The Book of Abstracts of Digital Humanities Conference 2024 (DH 2024)* (pp. 637–640).
@@ -38,6 +42,8 @@ Chinese translation: **Shang, W.** 尚闻一 & Sang, Z. 桑梓洲 (2022). [Tuanl
 12. Lavin, M. J., Chang, K., Hu, Y., **Shang, W.**, Sharma, A., Singhal, S., Underwood, T., Witte, J., Wu, P., Sinykin, D., Walsh, M., & Antoniak, M. (2020). [Cultural Analytics and the Book Review: Models, Methods, and Corpora](http://constancecrompton.com/2020/DH2020Abstracts_Guiliano_Estill_Crompton.pdf#page=512). In *The Book of Abstracts of Digital Humanities Conference 2020 (DH 2020)* (pp. 525–526).
 13. **Shang, W.**, Zhang, J., & Huang, W. (2019). [Modelling Poetic Similarity: A Comparative Study of W. B. Yeats and the English Romantic Poets](https://doi.org/10.34894/OUOSLM). In *The Book of Abstracts of Digital Humanities Conference 2019 (DH 2019)*.
 14. **Shang, W.** (2018). [A Comparison of the Historical Entries in Wikipedia and Baidu Baike](https://doi.org/10.1007/978-3-319-78105-1_9). In *Proceedings of the 13th International Conference (iConference 2018)* (pp. 74–80).
+
+<p style="margin-top: -20px;"></p>
 
 ## Public Scholarship
 1. **Shang, W.** 尚闻一. (2024). [Du Fu junwang xiaokao: guankui Tangdai “shizu” de ziwo shenfen rentong yu shehui shibie 杜甫郡望小考：管窥唐代“士族”的自我身份认同与社会识别 [A Brief Study of Du Fu’s Choronyms: A Partial Perspective on Tang Dynasty Elites’ Self-Identification and Social Recognition]](https://m.thepaper.cn/newsDetail_forward_29029729). *Pengpai xinwen* 澎湃新闻 [The Paper].
