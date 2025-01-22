@@ -90,7 +90,7 @@ author_profile: true
   </tr>
   <tr style="background-color: #ffffff; font-size: 18px;">
     <td>Contributions</td>
-    <td>Grading assignments, recording class participation, and answering questions in a graduate-level course</td>
+    <td>Grading assignments, recording class participation, and answering questions</td>
   </tr>
 </table>
 
