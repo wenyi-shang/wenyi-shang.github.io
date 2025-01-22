@@ -262,7 +262,7 @@ author_profile: true
     <td>Peking University</td>
     <td>December 2024</td>
   </tr>
-  <tr style="background-color: #f2f2f2; font-size: 18px;">
+  <tr font-size: 18px;">
     <td>Career Planning for Library and Information Science Professionals</td>
     <td>Seminar on Publishing Trends and Library Trends</td>
     <td>Peking University</td>
