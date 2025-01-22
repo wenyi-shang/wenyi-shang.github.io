@@ -17,6 +17,9 @@ author_profile: true
 6. **Shang, W.** & Underwood, T. Disentangling Forms from Styles in English Poetry: A Classification Experiment. [Digital Humanities Fair 2022](https://dlab.berkeley.edu/events/uc-berkeley-digital-humanities-fair/2022-05-03), University of California, Berkeley, CA (virtual event). May 3, 2022.
 7. **Shang, W.** The Aristocratic Social Network in the Eastern Jin Dynasty (317–420 C.E.). [Historical Network Research in Chinese Studies Conference](https://fccsdigitalchina.github.io/hnrcs2021), Harvard University, Cambridge, MA (virtual event). July 23–31, 2021.
 8. **Shang, W.** 尚闻一. Jiyu shuzihua fangfa de Zhongguo gudai shi fenqi zai tantao—zhong wan Tang keju jilu de anli yanjiu 基于数字化方法的中国古代史分期再探讨——中晚唐科举记录的案例研究 [Rediscussing Premodern Chinese Historical Periodization Based on Digital Methods: A Case Study of Civil Service Examination Records in the Mid-to-Late Tang Dynasty]. [*Shuzi renwen* chuang kan yishi ji Beijing shuzi renwen guoji gongzuofang 《数字人文》创刊仪式暨北京数字人文国际工作坊 [The Launching Ceremony of *Journal of Digital Humanities* and International Workshop (Beijing)]](https://achieve.dhcn.cn/en/site/works/dhjournal/202002/5583.html), Tsinghua University, Beijing, China. December 14–15, 2019.
+
+<p style="margin-top: -20px;"></p>
+
 ## Invited Talks
 1. Wang, J., Van Wijlick, H., Wang, S., & **Shang, W.** [From Dunhuang to Aegean Sea: Global and Digital Perspectives on Cultural Heritage Conservation](https://news.pku.edu.cn/xwzh/f67ef6800d144626b7b85feda311cf96.htm). “Global Exchange@PKU: Exchange Cafe” Roundtable Discussion, Peking University, Beijing, China. December 18, 2024.
 2. **Shang, W.** [Moving Beyond the Streetlight: How Computational Methods Can Open Up New Directions in Humanities Research](https://thi.ucsc.edu/event/ai-cluster-wenyi-shang). Humanities in the Age of Artificial Intelligence Cluster Speaker Series, University of California, Santa Cruz, CA. November 18, 2024.
