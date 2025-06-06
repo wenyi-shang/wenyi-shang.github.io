@@ -37,7 +37,7 @@ author_profile: true
 
 <p style="margin-top: -10px;"></p>
 
-1. <i>ERGM and Network Simulation</i>. [Historical Network Research in Chinese Studies Conference](https://fccsdigitalchina.github.io/hnrcs2021), July 2021.<br>Hosted by the Fairbank Center for Chinese Studies, Harvard University (virtual event).
+1. <i>ERGM and Network Simulation</i>. [Historical Network Research in Chinese Studies Conference](https://fccsdigitalchina.github.io/hnrcs2021), July 2021.<br>Hosted by the Fairbank Center for Chinese Studies, Harvard University.
 
 ## Guest Lectures Delivered
 
