@@ -18,7 +18,7 @@ author_profile: true
 
 <p style="margin-top: -20px;"></p>
 
-## Courses Taught as Instructor
+## Other Courses Taught as Instructor
 
 <p style="margin-top: -10px;"></p>
 
