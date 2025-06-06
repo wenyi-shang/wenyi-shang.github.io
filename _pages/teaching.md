@@ -32,3 +32,18 @@ author_profile: true
 3. <i>Information Organization</i>. Peking University, Spring 2019.
 4. <i>Information Storage and Retrieval</i>. Peking University, Fall 2018.
 5. <i>History of Chinese Books</i>. Peking University, Spring 2017.
+
+## Workshops Taught as Instructor
+
+<p style="margin-top: -10px;"></p>
+
+1. <i>ERGM and Network Simulation</i>. [Historical Network Research in Chinese Studies Conference](https://fccsdigitalchina.github.io/hnrcs2021), July 2021.<br>Hosted by the Fairbank Center for Chinese Studies, Harvard University, Cambridge, MA (virtual event).
+
+## Guest Lectures Delivered
+
+<p style="margin-top: -10px;"></p>
+
+1. Interplays Between Materiality and Content in Late Imperial (1500–1899) Chinese Books. Presented in <i>IS_LT 9428: History of Books and Media</i>, School of Information Science & Learning Technologies, University of Missouri, June 2025.
+2. From Databases to Digital Prosopography: Applications and New Frontiers in Digital History. Presented in <i>Sources of the Greco-Roman World and Digital Humanities</i>, Department of History, Peking University, March 2025.
+3. Experience Sharing for First-Year Information Management Students. Presented in <i>Introduction to Information Management</i>, Department of Information Management, Peking University, December 2024.
+4. Career Planning for Library and Information Science Professionals. Presented in <i> Seminar on Publishing Trends and Library Trends</i>, Department of Information Management, Peking University, December 2024.
