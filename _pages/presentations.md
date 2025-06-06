@@ -10,8 +10,10 @@ author_profile: true
 
 ## Non-Archival Conference Presentations 
 
-<p style="margin-top: -25px;"></p>
+<p style="margin-top: -20px;"></p>
 (* denotes refereed presentations)
+
+<p style="margin-top: -10px;"></p>
 
 1. **Shang, W.** Moving Between Scales: Computationally Modelling Social Dynamics in the Elite Society of Premodern China. Doctoral Colloquium, [86th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2023)](https://www.asist.org/meetings-events/am/am23), London, UK. October 27–31, 2023. *
 2. **Shang, W.** A Research Framework of Book Size Modeling Based on Digital Library Metadata. [The Tools of the Trade: The Way Forward, an International Conference on Digital Tools and Methods in East Asian Studies](https://sites.harvard.edu/tools-of-the-trade), Harvard University, Cambridge, MA. March 14–16, 2023. *
