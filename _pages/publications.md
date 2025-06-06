@@ -11,6 +11,9 @@ author_profile: true
 <p style="margin-top: -20px;"></p>
 
 ## Peer-Reviewed Journal Articles
+
+<p style="margin-top: -10px;"></p>
+
 1. Strathausen, C., **Shang, W.**, & Kazakov, A. (2025). [Kafka’s Literary Style: A Mixed-Method Approach](https://doi.org/10.3390/h14030061). *Humanities*, *14*(3), 61.
 2. Chen, Y., **Shang, W.**, Wang, H., Zhang, S., & Bol, P. (2025). [Geocoding the Past World: Unearthing Coordinates of Early China from Texts Using Generative AI](https://doi.org/10.1080/13658816.2025.2491711). *International Journal of Geographical Information Science*, 1–27.
 3. **Shang, W.** & Underwood, T. (2025). [Disentangling Semantic and Prosodic Features of English Poetry](https://doi.org/10.1093/llc/fqae008). *Digital Scholarship in the Humanities*, *40*(Supplement_1), i87–i99.
@@ -29,6 +32,9 @@ author_profile: true
 <p style="margin-top: -20px;"></p>
 
 ## Peer-Reviewed Conference Proceedings
+
+<p style="margin-top: -10px;"></p>
+
 1. **Shang, W.** & Ochi, S. (Accepted). Text Mining Gender Depictions in Epitaphs Verses from Northern Wei (386–539 C.E.) China. In *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
 2. Strathausen, C. & **Shang, W.** (Accepted). A Study of Imagery in Franz Kafka’s Novel <i>The Trial</i> Through Illustrated Editions.In *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
 3. **Shang, W.**, Ma, R., & Moulaison-Sandy, H. (2025). [How Does Digital Humanities Research Talk about AI? A Bibliometric Analysis](https://doi.org/10.47989/ir30iConf47242). *Information Research*, *30*(iConf), 635–645.
@@ -50,7 +56,15 @@ author_profile: true
 <p style="margin-top: -20px;"></p>
 
 ## Public Scholarship
+
+<p style="margin-top: -10px;"></p>
+
 1. **Shang, W.** 尚闻一. (2024). [Du Fu junwang xiaokao: guankui Tangdai “shizu” de ziwo shenfen rentong yu shehui shibie 杜甫郡望小考：管窥唐代“士族”的自我身份认同与社会识别 [A Brief Study of Du Fu’s Choronyms: A Partial Perspective on Tang Dynasty Elites’ Self-Identification and Social Recognition]](https://m.thepaper.cn/newsDetail_forward_29029729). *Pengpai xinwen* 澎湃新闻 [The Paper].
 
+<p style="margin-top: -20px;"></p>
+
 ## Preprints and Preregistered Manuscripts
+
+<p style="margin-top: -10px;"></p>
+
 1. Underwood, T., Hu, Y., **Shang, W.**, Senatorova, E., & Bishop, D. (2022). [Innovation, Publicity, and Change in Literary Culture](https://osf.io/uqr3c) [OSF (Open Science Framework) Preregistration].
