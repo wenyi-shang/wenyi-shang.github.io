@@ -10,6 +10,9 @@ author_profile: true
 
 <p style="margin-top: -20px;"></p>
 
+Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served as advisor.
+Author names marked with <sup>+</sup> denotes Ph.D. students for whom I served as a doctoral committee member
+
 ## Peer-Reviewed Journal Articles
 
 <p style="margin-top: -10px;"></p>
@@ -35,23 +38,24 @@ author_profile: true
 
 <p style="margin-top: -10px;"></p>
 
-1. **Shang, W.** & Ochi, S. (Accepted). Text Mining Gender Depictions in Epitaphs Verses from Northern Wei (386–539 C.E.) China. In *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
-2. Strathausen, C. & **Shang, W.** (Accepted). A Study of Imagery in Franz Kafka’s Novel <i>The Trial</i> Through Illustrated Editions.In *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
-3. **Shang, W.**, Ma, R., & Moulaison-Sandy, H. (2025). [How Does Digital Humanities Research Talk about AI? A Bibliometric Analysis](https://doi.org/10.47989/ir30iConf47242). *Information Research*, *30*(iConf), 635–645.
-4. **Shang, W.**, Chen, Y., Dubnicek, R., Cordell, R., & Downie, J. S. (2024). [Interplays Between Materiality and Content in Book History: Evidence from 16th–19th Century Chinese and English Books](https://doi.org/10.5281/zenodo.13834936). In *The Book of Abstracts of Digital Humanities Conference 2024 (DH 2024)* (pp. 637–640).
-5. Chen, Y., **Shang, W.**, & Chen, S. (2024). [Pure Conversation with AI: Building Generative Agents for Reenacting Debates in History](https://doi.org/10.5281/zenodo.13834936). In *The Book of Abstracts of Digital Humanities Conference 2024 (DH 2024)* (pp. 99–101).
-6. **Shang, W.**, Chen, S., Chen, Y., & Diesner, J. (2023). [Structural Characteristics in Historical Networks Reveal Changes in Political Culture: An Example From Northern Song China (960–1127 C.E.)](https://ceur-ws.org/Vol-3558/paper2567.pdf). In *Proceedings of the Computational Humanities Research Conference 2023 (CHR 2023)* (pp. 263–273).
-7. **Shang, W.** (2023). [Moving Between Scales: Computationally Modelling Social Dynamics in the Elite Society of Premodern China](https://doi.org/10.21900/j.alise.2023.1273). In *Proceedings of the Association for Library and Information Science Education Annual Conference (ALISE 2023)*.
-8. Lavin, M., Walsh, M., Antoniak, M., Hu, Y., Underwood, T., Bishop, D., Senatorova, L., & **Shang, W.** (2023). [Reception History in Many Dimensions: New Research on Book Reviews](https://zenodo.org/record/8210808). In *The Book of Abstracts of Digital Humanities Conference 2023 (DH 2023)* (pp. 461–463).
-9. **Shang, W.**, Cordell, R., & Downie, J. S. (2023). [Book Size, Book Format: Historical Relationship in the HathiTrust Digital Library Metadata (1500–1799)](https://doi.org/10.1109/JCDL57899.2023.00059). In *Proceedings of the 2023 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2023)* (pp. 279–281).
-10. **Shang, W.** & Underwood, T. (2022). [Genre Classification in English Poetry with Lexical and Prosodic Features](https://dh2022.dhii.asia/dh2022bookofabsts.pdf#page=569). In *The Book of Abstracts of Digital Humanities Conference 2022 (DH 2022)* (pp. 567–569).
-11. **Shang, W.** & Chen, S. (2022). [Structural Balance in the Historical Political Networks of China](https://dh2022.dhii.asia/dh2022bookofabsts.pdf#page=571). In *The Book of Abstracts of Digital Humanities Conference 2022 (DH 2022)* (pp. 569–571).
-12. **Shang, W.**, Jett, J., & Downie, J. S. (2021). [Exploring Metadata Quality Issues in Non-English Corpora: Preliminary Assessments of HathiTrust Records of late imperial Chinese Books](https://www.hi.u-tokyo.ac.jp/JADH/2021/Proceedings_JADH2021.pdf#page=88). In *Proceedings of the 11th Conference of Japanese Association for Digital Humanities (JADH 2021)* (pp. 88–92).
-13. **Shang, W.** & Underwood, T. (2021). [Improving Measures of Text Reuse in English Poetry: A TF–IDF Based Method](https://doi.org/10.1007/978-3-030-71292-1_36). In *Proceedings of the 16th International Conference (iConference 2021)* (pp. 469–477).
-14. Sharma, A., Hu, Y., Wu, P., **Shang, W.**, Singhal, S., & Underwood, T. (2020). [The Rise and Fall of Genre Differentiation in English-Language Fiction](http://ceur-ws.org/Vol-2723/long27.pdf). In *Proceedings of the Computational Humanities Research Conference 2020 (CHR 2020)* (pp. 97–114).
-15. Lavin, M. J., Chang, K., Hu, Y., **Shang, W.**, Sharma, A., Singhal, S., Underwood, T., Witte, J., Wu, P., Sinykin, D., Walsh, M., & Antoniak, M. (2020). [Cultural Analytics and the Book Review: Models, Methods, and Corpora](http://constancecrompton.com/2020/DH2020Abstracts_Guiliano_Estill_Crompton.pdf#page=512). In *The Book of Abstracts of Digital Humanities Conference 2020 (DH 2020)* (pp. 525–526).
-16. **Shang, W.**, Zhang, J., & Huang, W. (2019). [Modelling Poetic Similarity: A Comparative Study of W. B. Yeats and the English Romantic Poets](https://doi.org/10.34894/OUOSLM). In *The Book of Abstracts of Digital Humanities Conference 2019 (DH 2019)*.
-17. **Shang, W.** (2018). [A Comparison of the Historical Entries in Wikipedia and Baidu Baike](https://doi.org/10.1007/978-3-319-78105-1_9). In *Proceedings of the 13th International Conference (iConference 2018)* (pp. 74–80).
+1. Coble, Z.<sup>+</sup> & **Shang, W.** (2025). Does the Semantic Meaning of Class Names Matter? A Study of the Library of Congress Classification. *Proceedings of the 88th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2025)*.
+2. **Shang, W.** & Ochi, S. (2025). Text Mining Gender Depictions in Epitaphs Verses from Northern Wei (386–539 C.E.) China. *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
+3. Strathausen, C. & **Shang, W.** (2025). A Study of Imagery in Franz Kafka’s Novel <i>The Trial</i> Through Illustrated Editions. *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
+4. **Shang, W.**, Ma, R., & Moulaison-Sandy, H. (2025). [How Does Digital Humanities Research Talk about AI? A Bibliometric Analysis](https://doi.org/10.47989/ir30iConf47242). *Information Research*, *30*(iConf), 635–645.
+5. **Shang, W.**, Chen, Y., Dubnicek, R., Cordell, R., & Downie, J. S. (2024). [Interplays Between Materiality and Content in Book History: Evidence from 16th–19th Century Chinese and English Books](https://doi.org/10.5281/zenodo.13834936). *The Book of Abstracts of Digital Humanities Conference 2024 (DH 2024)* (pp. 637–640).
+6. Chen, Y., **Shang, W.**, & Chen, S. (2024). [Pure Conversation with AI: Building Generative Agents for Reenacting Debates in History](https://doi.org/10.5281/zenodo.13834936). *The Book of Abstracts of Digital Humanities Conference 2024 (DH 2024)* (pp. 99–101).
+7. **Shang, W.**, Chen, S., Chen, Y., & Diesner, J. (2023). [Structural Characteristics in Historical Networks Reveal Changes in Political Culture: An Example From Northern Song China (960–1127 C.E.)](https://ceur-ws.org/Vol-3558/paper2567.pdf). *Proceedings of the Computational Humanities Research Conference 2023 (CHR 2023)* (pp. 263–273).
+8. **Shang, W.** (2023). [Moving Between Scales: Computationally Modelling Social Dynamics in the Elite Society of Premodern China](https://doi.org/10.21900/j.alise.2023.1273). *Proceedings of the Association for Library and Information Science Education Annual Conference (ALISE 2023)*.
+9. Lavin, M., Walsh, M., Antoniak, M., Hu, Y., Underwood, T., Bishop, D., Senatorova, L., & **Shang, W.** (2023). [Reception History in Many Dimensions: New Research on Book Reviews](https://zenodo.org/record/8210808). *The Book of Abstracts of Digital Humanities Conference 2023 (DH 2023)* (pp. 461–463).
+10. **Shang, W.**, Cordell, R., & Downie, J. S. (2023). [Book Size, Book Format: Historical Relationship in the HathiTrust Digital Library Metadata (1500–1799)](https://doi.org/10.1109/JCDL57899.2023.00059). *Proceedings of the 2023 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2023)* (pp. 279–281).
+11. **Shang, W.** & Underwood, T. (2022). [Genre Classification in English Poetry with Lexical and Prosodic Features](https://dh2022.dhii.asia/dh2022bookofabsts.pdf#page=569). *The Book of Abstracts of Digital Humanities Conference 2022 (DH 2022)* (pp. 567–569).
+12. **Shang, W.** & Chen, S. (2022). [Structural Balance in the Historical Political Networks of China](https://dh2022.dhii.asia/dh2022bookofabsts.pdf#page=571). *The Book of Abstracts of Digital Humanities Conference 2022 (DH 2022)* (pp. 569–571).
+13. **Shang, W.**, Jett, J., & Downie, J. S. (2021). [Exploring Metadata Quality Issues in Non-English Corpora: Preliminary Assessments of HathiTrust Records of late imperial Chinese Books](https://www.hi.u-tokyo.ac.jp/JADH/2021/Proceedings_JADH2021.pdf#page=88). *Proceedings of the 11th Conference of Japanese Association for Digital Humanities (JADH 2021)* (pp. 88–92).
+14. **Shang, W.** & Underwood, T. (2021). [Improving Measures of Text Reuse in English Poetry: A TF–IDF Based Method](https://doi.org/10.1007/978-3-030-71292-1_36). *Proceedings of the 16th International Conference (iConference 2021)* (pp. 469–477).
+15. Sharma, A., Hu, Y., Wu, P., **Shang, W.**, Singhal, S., & Underwood, T. (2020). [The Rise and Fall of Genre Differentiation in English-Language Fiction](http://ceur-ws.org/Vol-2723/long27.pdf). *Proceedings of the Computational Humanities Research Conference 2020 (CHR 2020)* (pp. 97–114).
+16. Lavin, M. J., Chang, K., Hu, Y., **Shang, W.**, Sharma, A., Singhal, S., Underwood, T., Witte, J., Wu, P., Sinykin, D., Walsh, M., & Antoniak, M. (2020). [Cultural Analytics and the Book Review: Models, Methods, and Corpora](http://constancecrompton.com/2020/DH2020Abstracts_Guiliano_Estill_Crompton.pdf#page=512). *The Book of Abstracts of Digital Humanities Conference 2020 (DH 2020)* (pp. 525–526).
+17. **Shang, W.**, Zhang, J., & Huang, W. (2019). [Modelling Poetic Similarity: A Comparative Study of W. B. Yeats and the English Romantic Poets](https://doi.org/10.34894/OUOSLM). *The Book of Abstracts of Digital Humanities Conference 2019 (DH 2019)*.
+18. **Shang, W.** (2018). [A Comparison of the Historical Entries in Wikipedia and Baidu Baike](https://doi.org/10.1007/978-3-319-78105-1_9). *Proceedings of the 13th International Conference (iConference 2018)* (pp. 74–80).
 
 <p style="margin-top: -20px;"></p>
 
