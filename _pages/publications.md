@@ -8,7 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-<p style="margin-top: -20px;"></p>
+Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served as advisor.<br>Author names marked with <sup>+</sup> denotes Ph.D. students for whom I served as a doctoral committee member.
+
+<p style="margin-top: -50px;"></p>
 
 ## Peer-Reviewed Journal Articles
 
@@ -35,7 +37,7 @@ author_profile: true
 
 <p style="margin-top: -10px;"></p>
 
-1. Coble, Z. & **Shang, W.** (2025). Does the Semantic Meaning of Class Names Matter? A Study of the Library of Congress Classification. *Proceedings of the 88th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2025)*.
+1. Coble, Z.<sup>+</sup> & **Shang, W.** (2025). Does the Semantic Meaning of Class Names Matter? A Study of the Library of Congress Classification. *Proceedings of the 88th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2025)*.
 2. **Shang, W.** & Ochi, S. (2025). Text Mining Gender Depictions in Epitaphs Verses from Northern Wei (386–539 C.E.) China. *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
 3. Strathausen, C. & **Shang, W.** (2025). A Study of Imagery in Franz Kafka’s Novel <i>The Trial</i> Through Illustrated Editions. *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
 4. **Shang, W.**, Ma, R., & Moulaison-Sandy, H. (2025). [How Does Digital Humanities Research Talk about AI? A Bibliometric Analysis](https://doi.org/10.47989/ir30iConf47242). *Information Research*, *30*(iConf), 635–645.
