@@ -8,9 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served as advisor.
-
-Author names marked with <sup>+</sup> denotes Ph.D. students for whom I served as a doctoral committee member.
+Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served as advisor.<br>Author names marked with <sup>+</sup> denotes Ph.D. students for whom I served as a doctoral committee member.
 
 <p style="margin-top: -20px;"></p>
 
