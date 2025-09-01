@@ -10,7 +10,7 @@ author_profile: true
 
 Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served as advisor.<br>Author names marked with <sup>+</sup> denotes Ph.D. students for whom I served as a doctoral committee member.
 
-<p style="margin-top: -40px;"></p>
+<p style="margin-top: -30px;"></p>
 
 ## Peer-Reviewed Journal Articles
 
