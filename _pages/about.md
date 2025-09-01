@@ -18,4 +18,4 @@ My scholarly work falls into three main areas: First, I work <i>as</i> a histori
 I occasionally share non-academic writings (in Chinese) on my personal WeChat Official Account "翡翠岛燕谈" (Leisurely Discourse on the Emerald Isle). You can find it by scanning the following QR code using the WeChat app:<br>
 ![翡翠岛燕谈](/images/Emerald-Isle.png)
 
-You can view my CV here: [Wenyi Shang's Curriculum Vitae](../files/CV.pdf) (last updated June 6, 2025).
+You can view my CV here: [Wenyi Shang's Curriculum Vitae](../files/CV.pdf) (last updated September 1, 2025).
