@@ -43,7 +43,9 @@ author_profile: true
 
 <p style="margin-top: -10px;"></p>
 
-1. <i>ERGM and Network Simulation</i>. [Historical Network Research in Chinese Studies Conference](https://fccsdigitalchina.github.io/hnrcs2021), July 2021.<br>Hosted by the Fairbank Center for Chinese Studies, Harvard University.
+1. <i>Lishi wangluo fenxi</i> 历史网络分析 [Historical Network Analysis]. [Zhineng shixue gongzuofang 智能史学工作坊 [Workshop on AI-Powered Historical Studies]](https://news.pku.edu.cn/xwzh/bb6cda4c61fb40d998096185f95632fb.htm), June 2025. Hosted by the Department of History, Peking University.
+2. <i>Network Analysis</i>. [Historical Network Research in Chinese Studies Conference](https://chinesedh2025.eas.princeton.edu), June 2025. Hosted by the Department of East Asian Studies, Princeton University.
+3. <i>ERGM and Network Simulation</i>. [Historical Network Research in Chinese Studies Conference](https://fccsdigitalchina.github.io/hnrcs2021), July 2021. Hosted by the Fairbank Center for Chinese Studies, Harvard University.
 
 <p style="margin-top: -20px;"></p>
 
