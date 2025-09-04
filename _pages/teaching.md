@@ -22,8 +22,10 @@ author_profile: true
 
 <p style="margin-top: -10px;"></p>
 
-1. <i>IS_LT 7301: Library and Information Technology</i>. University of Missouri, Spring 2025.
-2. <i>IS_LT 9085: Problems in Information Science and Learning Technology</i> (independent study). University of Missouri, Spring 2025.
+1. <i>IS_LT 7302: Organization of Information</i>. University of Missouri, Fall 2025.
+2. <i>IS_LT 7305: Foundations of Library and Information Science</i>. University of Missouri, Fall 2025.
+3. <i>IS_LT 7301: Library and Information Technology</i>. University of Missouri, Spring 2025.
+4. <i>IS_LT 9085: Problems in Information Science and Learning Technology</i> (independent study). University of Missouri, Spring 2025, Fall 2025.
 
 <p style="margin-top: -20px;"></p>
 
