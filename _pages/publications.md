@@ -39,7 +39,7 @@ Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served 
 
 1. **Shang, W.** & Liu, E. X.<sup>§</sup> (2025). Was Poetry Graded Validly?: Text Mining <i>Shipin</i>, a Sixth-Century Chinese Work of Literary Criticism. *Proceedings of the Computational Humanities Research Conference 2025 (CHR 2025)*.
 2. Coble, Z.<sup>+</sup> & **Shang, W.** (2025). Does the Semantic Meaning of Class Names Matter? A Study of the Library of Congress Classification. *Proceedings of the 88th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2025)*.
-3. **Shang, W.** & Ochi, S. (2025). Text Mining Gender Depictions in Epitaphs Verses from Northern Wei (386–539 C.E.) China. *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
+3. **Shang, W.** & Ochi, S. (2025). Text Mining Gender Depictions in Epitaphs Verses from Northern Wei (386–534 C.E.) China. *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
 4. Strathausen, C. & **Shang, W.** (2025). A Study of Imagery in Franz Kafka’s Novel <i>The Trial</i> Through Illustrated Editions. *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*.
 5. **Shang, W.**, Ma, R., & Moulaison-Sandy, H. (2025). [How Does Digital Humanities Research Talk about AI? A Bibliometric Analysis](https://doi.org/10.47989/ir30iConf47242). *Information Research*, *30*(iConf), 635–645.
 6. **Shang, W.**, Chen, Y., Dubnicek, R., Cordell, R., & Downie, J. S. (2024). [Interplays Between Materiality and Content in Book History: Evidence from 16th–19th Century Chinese and English Books](https://doi.org/10.5281/zenodo.13834936). *The Book of Abstracts of Digital Humanities Conference 2024 (DH 2024)* (pp. 637–640).
