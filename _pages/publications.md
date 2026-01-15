@@ -56,7 +56,7 @@ Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served 
 17. Sharma, A., Hu, Y., Wu, P., **Shang, W.**, Singhal, S., & Underwood, T. (2020). [The Rise and Fall of Genre Differentiation in English-Language Fiction](http://ceur-ws.org/Vol-2723/long27.pdf). *Proceedings of the Computational Humanities Research Conference 2020 (CHR 2020)*, 97–114.
 18. Lavin, M. J., Chang, K., Hu, Y., **Shang, W.**, Sharma, A., Singhal, S., Underwood, T., Witte, J., Wu, P., Sinykin, D., Walsh, M., & Antoniak, M. (2020). [Cultural Analytics and the Book Review: Models, Methods, and Corpora](http://constancecrompton.com/2020/DH2020Abstracts_Guiliano_Estill_Crompton.pdf#page=512). *The Book of Abstracts of Digital Humanities Conference 2020 (DH 2020)*, 525–526.
 19. **Shang, W.**, Zhang, J., & Huang, W. (2019). [Modelling Poetic Similarity: A Comparative Study of W. B. Yeats and the English Romantic Poets](https://doi.org/10.34894/OUOSLM). *The Book of Abstracts of Digital Humanities Conference 2019 (DH 2019)*.
-20. **Shang, W.** (2018). [A Comparison of the Historical Entries in Wikipedia and Baidu Baike](https://doi.org/10.1007/978-3-319-78105-1_9). *Proceedings of the 13th International Conference, iConference 2018*, pp. 74–80.
+20. **Shang, W.** (2018). [A Comparison of the Historical Entries in Wikipedia and Baidu Baike](https://doi.org/10.1007/978-3-319-78105-1_9). *Proceedings of the 13th International Conference, iConference 2018*, 74–80.
 
 <p style="margin-top: -20px;"></p>
 
