@@ -65,7 +65,7 @@ Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served 
 
 <p style="margin-top: -10px;"></p>
 
-1. **Shang, W.** (2026). [Review: China Biographical Database](https://reviewsindh.pubpub.org/pub/china-biographical-database). *Reviews in Digital Humanities*, *7*(7).
+1. **Shang, W.** (2026). [Review: China Biographical Database](https://doi.org/10.21428/3e88f64f.c6c4624b). *Reviews in Digital Humanities*, *7*(7).
 
 <p style="margin-top: -20px;"></p>
 
