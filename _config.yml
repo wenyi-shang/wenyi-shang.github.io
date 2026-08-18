@@ -24,7 +24,7 @@ author:
   avatar           : "Wenyi-Shang.jpg"
   name             : "Wenyi Shang 尚闻一"
   pronouns         : "he/him"  
-  bio              : "<b>Research Interests</b><br>Digital Humanities<br><br><i>Primary Humanities Focus:</i><br>&bull; Medieval China<br><div style="margin-top: 10px;"><i>Subject Areas:</i><br>&bull; Digital History<br>&bull; Computational Literary Studies<br>&bull; Computational Social Science<br>&bull; Book History and Print Culture<br>&bull; Scholarly Communication</div><div style="margin-top: 10px;"><i>Methods:</i><br>&bull; Machine Learning<br>&bull; Text Mining and Natural Language Processing<br>&bull; Network Analysis<br>&bull; Spatial Analysis<br>&bull; Generative AI</div>"
+  bio              : "<b>Research Interests</b><br>Digital Humanities<br><br><i>Primary Humanities Focus:</i><br>&bull; Medieval China<br><div style='margin-top: 10px;'><i>Subject Areas:</i><br>&bull; Digital History<br>&bull; Computational Literary Studies<br>&bull; Computational Social Science<br>&bull; Book History and Print Culture<br>&bull; Scholarly Communication</div><div style='margin-top: 10px;'><i>Methods:</i><br>&bull; Machine Learning<br>&bull; Text Mining and Natural Language Processing<br>&bull; Network Analysis<br>&bull; Spatial Analysis<br>&bull; Generative AI</div>"
   employer         : "University of Missouri"
   uri              : # URL
   email            : "wenyishang@missouri.edu" 
