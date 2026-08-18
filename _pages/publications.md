@@ -37,7 +37,7 @@ Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served 
 
 <p style="margin-top: -10px;"></p>
 
-1. Zhang, J. & **Shang, W.** (2026). Towards a Large-scale Paratextual Study: Genre Analysis of Early Modern English Playbooks. *The Book of Abstracts of Digital Humanities Conference 2026 (DH 2026)*.
+1. Zhang, J. & **Shang, W.** (2026). [Towards a Large-scale Paratextual Study: Genre Analysis of Early Modern English Playbooks](https://zenodo.org/records/21495909). *The Book of Abstracts of Digital Humanities Conference 2026 (DH 2026)*, 851–853.
 2. Li, K., **Shang, W.**, Han, Y. (2026). [Bibliographic Records Reveal Trends in Chinese History Scholarship: Evidence from Library of Congress Metadata](https://doi.org/10.47989/ir31iConf64266). *Information Research*, *31*(iConf), 1751–1760.
 3. **Shang, W.** & Liu, E. X.<sup>§</sup> (2025). [Was Poetry Graded Validly?: Text Mining <i>Shipin</i>, a Sixth-Century Chinese Work of Literary Criticism](https://doi.org/10.63744/uNUzr0wn2VsQ). *Proceedings of the Computational Humanities Research Conference 2025 (CHR 2025)*, 1067–1079.
 4. Coble, Z.<sup>+</sup> & **Shang, W.** (2025). [Does the Semantic Meaning of Class Names Matter? A Study of the Library of Congress Classification](https://doi.org/10.1002/pra2.1418). *Proceedings of the Association for Information Science and Technology (ASIS&T)*, *62*(1), 1405–1407.
@@ -58,6 +58,14 @@ Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served 
 19. Lavin, M. J., Chang, K., Hu, Y., **Shang, W.**, Sharma, A., Singhal, S., Underwood, T., Witte, J., Wu, P., Sinykin, D., Walsh, M., & Antoniak, M. (2020). [Cultural Analytics and the Book Review: Models, Methods, and Corpora](https://dh2020.adho.org/wp-content/uploads/2020/07/516_CulturalAnalyticsandtheBookReviewModelsMethodsandCorpora.html). *The Book of Abstracts of Digital Humanities Conference 2020 (DH 2020)*, 525–526.
 20. **Shang, W.**, Zhang, J., & Huang, W. (2019). [Modelling Poetic Similarity: A Comparative Study of W. B. Yeats and the English Romantic Poets](https://doi.org/10.34894/OUOSLM). *The Book of Abstracts of Digital Humanities Conference 2019 (DH 2019)*.
 21. **Shang, W.** (2018). [A Comparison of the Historical Entries in Wikipedia and Baidu Baike](https://doi.org/10.1007/978-3-319-78105-1_9). *Proceedings of the 13th International Conference, iConference 2018*, 74–80.
+
+<p style="margin-top: -20px;"></p>
+
+## Reviews
+
+<p style="margin-top: -10px;"></p>
+
+1. **Shang, W.** (2026). [Review: China Biographical Database](https://reviewsindh.pubpub.org/pub/china-biographical-database). *Reviews in Digital Humanities*, *7*(7).
 
 <p style="margin-top: -20px;"></p>
 
