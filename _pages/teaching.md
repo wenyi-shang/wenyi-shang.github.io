@@ -45,9 +45,10 @@ author_profile: true
 
 <p style="margin-top: -10px;"></p>
 
-1. <i>Lishi wangluo fenxi</i> 历史网络分析 [Historical Network Analysis]. [Zhineng shixue gongzuofang 智能史学工作坊 [Workshop on AI-Powered Historical Studies]](https://news.pku.edu.cn/xwzh/bb6cda4c61fb40d998096185f95632fb.htm), June 2025. Hosted by the Department of History, Peking University.
-2. <i>Network Analysis</i>. [China-Princeton Digital Humanities Workshop 2025](https://chinesedh2025.eas.princeton.edu), June 2025. Hosted by the Department of East Asian Studies, Princeton University. The interactive Jupyter Notebook for the workshop is available on [Google Drive](https://colab.research.google.com/drive/1aC2pAns3927FAhYbhL_mMXD6Dly2gr3b?usp=sharing).
-3. <i>ERGM and Network Simulation</i>. [Historical Network Research in Chinese Studies Conference](https://fccsdigitalchina.github.io/hnrcs2021), July 2021. Hosted by the Fairbank Center for Chinese Studies, Harvard University.
+1. <i>Analyzing Large-Scale Online Bibliographic Metadata for Book History</i> (co-taught with Kai Li). [Leveraging Emerging Datasets for Critical Research on Books and Reader Communities](https://zenodo.org/records/21495909). Workshop at Digital Humanities Conference 2026 (DH2026), July 2026, Daejeon, South Korea.
+2. <i>Lishi wangluo fenxi</i> 历史网络分析 [Historical Network Analysis]. [Zhineng shixue gongzuofang 智能史学工作坊 [Workshop on AI-Powered Historical Studies]](https://news.pku.edu.cn/xwzh/bb6cda4c61fb40d998096185f95632fb.htm), June 2025. Hosted by the Department of History, Peking University.
+3. <i>Network Analysis</i>. [China-Princeton Digital Humanities Workshop 2025](https://chinesedh2025.eas.princeton.edu), June 2025. Hosted by the Department of East Asian Studies, Princeton University. The interactive Jupyter Notebook for the workshop is available on [Google Drive](https://colab.research.google.com/drive/1aC2pAns3927FAhYbhL_mMXD6Dly2gr3b?usp=sharing).
+4. <i>ERGM and Network Simulation</i>. [Historical Network Research in Chinese Studies Conference](https://fccsdigitalchina.github.io/hnrcs2021), July 2021. Hosted by the Fairbank Center for Chinese Studies, Harvard University.
 
 <p style="margin-top: -20px;"></p>
 
@@ -55,7 +56,8 @@ author_profile: true
 
 <p style="margin-top: -10px;"></p>
 
-1. Interplays Between Materiality and Content in Late Imperial (1500–1899) Chinese Books. Presented in <i>IS_LT 9428: History of Books and Media</i>, School of Information Science & Learning Technologies, University of Missouri, June 2025.
-2. From Databases to Digital Prosopography: Applications and New Frontiers in Digital History. Presented in <i>Sources of the Greco-Roman World and Digital Humanities</i>, Department of History, Peking University, March 2025.
-3. Experience Sharing for First-Year Information Management Students. Presented in <i>Introduction to Information Management</i>, Department of Information Management, Peking University, December 2024.
-4. Career Planning for Library and Information Science Professionals. Presented in <i> Seminar on Publishing Trends and Library Trends</i>, Department of Information Management, Peking University, December 2024.
+1. Language Models and AI in Historical Studies. For <i>Sources of the Greco-Roman World and Digital Humanities</i>, Department of History, Peking University, June 2026.
+2. Interplays Between Materiality and Content in Late Imperial (1500–1899) Chinese Books. For <i>IS_LT 9428: History of Books and Media</i>, School of Information Science & Learning Technologies, University of Missouri, June 2025.
+3. From Databases to Digital Prosopography: Applications and New Frontiers in Digital History. For <i>Sources of the Greco-Roman World and Digital Humanities</i>, Department of History, Peking University, March 2025.
+4. Experience Sharing for First-Year Information Management Students. For <i>Introduction to Information Management</i>, Department of Information Management, Peking University, December 2024.
+5. Career Planning for Library and Information Science Professionals. For <i> Seminar on Publishing Trends and Library Trends</i>, Department of Information Management, Peking University, December 2024.
