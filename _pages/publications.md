@@ -77,7 +77,7 @@ Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served 
 
 <p style="margin-top: -20px;"></p>
 
-## Public Scholarship
+## Public Scholarship and Essays
 
 <p style="margin-top: -10px;"></p>
 
