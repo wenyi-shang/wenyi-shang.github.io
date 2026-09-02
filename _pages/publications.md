@@ -69,16 +69,17 @@ Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served 
 
 <p style="margin-top: -20px;"></p>
 
-## Public Scholarship
-
-<p style="margin-top: -10px;"></p>
-
-1. **Shang, W.** 尚闻一. (2024). [Du Fu junwang xiaokao: guankui Tangdai “shizu” de ziwo shenfen rentong yu shehui shibie 杜甫郡望小考：管窥唐代“士族”的自我身份认同与社会识别 [A Brief Study of Du Fu’s Choronyms: A Partial Perspective on Tang Dynasty Elites’ Self-Identification and Social Recognition]](https://m.thepaper.cn/newsDetail_forward_29029729). *Pengpai xinwen* 澎湃新闻 [The Paper].
-
-<p style="margin-top: -20px;"></p>
-
 ## Preprints and Preregistered Manuscripts
 
 <p style="margin-top: -10px;"></p>
 
 1. Underwood, T., Hu, Y., **Shang, W.**, Senatorova, E., & Bishop, D. (2022). [Innovation, Publicity, and Change in Literary Culture](https://osf.io/uqr3c) [OSF (Open Science Framework) Preregistration].
+
+<p style="margin-top: -20px;"></p>
+
+## Public Scholarship
+
+<p style="margin-top: -10px;"></p>
+
+1. **Shang, W.** 尚闻一. (2026). [Yi ku wei shi: dao Zhu Xiaoyuan laoshi 以苦为师：悼朱孝远老师 [Taking Hardship as One’s Teacher: In Memory of Professor Zhu Xiaoyuan]](https://m.thepaper.cn/newsDetail_forward_33977222). *Pengpai xinwen* 澎湃新闻 [The Paper].
+2. **Shang, W.** 尚闻一. (2024). [Du Fu junwang xiaokao: guankui Tangdai “shizu” de ziwo shenfen rentong yu shehui shibie 杜甫郡望小考：管窥唐代“士族”的自我身份认同与社会识别 [A Brief Study of Du Fu’s Choronyms: A Partial Perspective on Tang Dynasty Elites’ Self-Identification and Social Recognition]](https://m.thepaper.cn/newsDetail_forward_29029729). *Pengpai xinwen* 澎湃新闻 [The Paper].
