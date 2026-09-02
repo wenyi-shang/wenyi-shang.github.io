@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:18px;">Welcome</span>! I am an assistant professor at the [School of Information Science & Learning Technologies](https://cehd.missouri.edu/information-science-learning-technologies) at the University of Missouri. I earned my Ph.D. from the [School of Information Sciences](https://ischool.illinois.edu) at the University of Illinois Urbana-Champaign, where I was advised by Professor [Ted Underwood](https://ischool.illinois.edu/people/ted-underwood). Prior to joining the University of Illinois, I earned a bachelor’s degree in information management at [Peking University](https://english.pku.edu.cn/about.html), China.
+<span style="font-size:18px;">Welcome</span>! I am an assistant professor at the [School of Information Science & Learning Technologies](https://cehd.missouri.edu/information-science-learning-technologies) at the University of Missouri. I also serve as Faculty Lead for the [Digital Humanities Emphasis Area](https://catalog.missouri.edu/collegeofeducation/libraryinformationscience/mlis-library-information-science-emphasis-digital-humanities/) of the MLIS in Library and Information Science program. I earned my Ph.D. from the [School of Information Sciences](https://ischool.illinois.edu) at the University of Illinois Urbana-Champaign, where I was advised by Professor [Ted Underwood](https://ischool.illinois.edu/people/ted-underwood). Prior to joining the University of Illinois, I earned a bachelor’s degree in information management at [Peking University](https://english.pku.edu.cn/about.html), China.
 
 My research focuses on digital humanities, exploring scholarly inquiries in history and literature through computational methods. By leveraging digital technologies, I aim to offer fresh insights into the macroscopic trends that studies at the individual and microscopic scales often fail to reveal. Grounded in the perspective of information science, my work also informs and guides methodological reflection in the humanities and social science disciplines.
 
@@ -18,4 +18,4 @@ My scholarly work falls into three main areas: First, I work <i>as</i> a humanit
 I occasionally share non-academic writings (in Chinese) on my personal WeChat Official Account "翡翠岛燕谈" (Leisurely Discourse on the Emerald Isle). You can find it by scanning the following QR code using the WeChat app:<br>
 ![翡翠岛燕谈](/images/Emerald-Isle.png)
 
-You can view my CV here: [Wenyi Shang's Curriculum Vitae](../files/CV.pdf) (last updated August 18, 2026).
+You can view my CV here: [Wenyi Shang's Curriculum Vitae](../files/CV.pdf) (last updated September 1, 2026).
