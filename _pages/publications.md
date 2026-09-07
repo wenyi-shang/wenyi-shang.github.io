@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served as advisor.<br>Author names marked with <sup>+</sup> denotes Ph.D. students for whom I served as a doctoral committee member.
+Author names marked with <sup>+</sup> denotes Ph.D. students for whom I served as a doctoral committee member.
 
 <p style="margin-top: -30px;"></p>
 
@@ -39,7 +39,7 @@ Author names marked with <sup>§</sup> denotes Ph.D. students for whom I served 
 
 1. Zhang, J. & **Shang, W.** (2026). [Towards a Large-scale Paratextual Study: Genre Analysis of Early Modern English Playbooks](https://doi.org/10.5281/zenodo.21910640). *The Book of Abstracts of Digital Humanities Conference 2026 (DH 2026)*, 851–853.
 2. Li, K., **Shang, W.**, Han, Y. (2026). [Bibliographic Records Reveal Trends in Chinese History Scholarship: Evidence from Library of Congress Metadata](https://doi.org/10.47989/ir31iConf64266). *Information Research*, *31*(iConf), 1751–1760.
-3. **Shang, W.** & Liu, E. X.<sup>§</sup> (2025). [Was Poetry Graded Validly?: Text Mining <i>Shipin</i>, a Sixth-Century Chinese Work of Literary Criticism](https://doi.org/10.63744/uNUzr0wn2VsQ). *Proceedings of the Computational Humanities Research Conference 2025 (CHR 2025)*, 1067–1079.
+3. **Shang, W.** & Liu, E. X. (2025). [Was Poetry Graded Validly?: Text Mining <i>Shipin</i>, a Sixth-Century Chinese Work of Literary Criticism](https://doi.org/10.63744/uNUzr0wn2VsQ). *Proceedings of the Computational Humanities Research Conference 2025 (CHR 2025)*, 1067–1079.
 4. Coble, Z.<sup>+</sup> & **Shang, W.** (2025). [Does the Semantic Meaning of Class Names Matter? A Study of the Library of Congress Classification](https://doi.org/10.1002/pra2.1418). *Proceedings of the Association for Information Science and Technology (ASIS&T)*, *62*(1), 1405–1407.
 5. **Shang, W.** & Ochi, S. (2025). [Text Mining Gender Depictions in Epitaphs Verses from Northern Wei (386–534 C.E.) China](https://doi.org/10.5281/zenodo.19494802). *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*, 502–505.
 6. Strathausen, C. & **Shang, W.** (2025). [A Study of Imagery in Franz Kafka’s Novel <i>The Trial</i> Through Illustrated Editions](https://doi.org/10.5281/zenodo.19494802). *The Book of Abstracts of Digital Humanities Conference 2025 (DH 2025)*, 1080–1082.
